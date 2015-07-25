@@ -1,4 +1,4 @@
-package com.bytecode.explorer.utils;
+package com.bytecode.explorer.network;
 
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
