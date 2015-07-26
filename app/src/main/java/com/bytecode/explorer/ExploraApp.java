@@ -21,4 +21,10 @@ public class ExploraApp extends Application {
         instance = this;
         applicationContext = getApplicationContext();
     }
+
+    public static Context getInstance()
+    {
+        if (instance == null) instance = new ExploraApp();
+        return instance;
+    }
 }

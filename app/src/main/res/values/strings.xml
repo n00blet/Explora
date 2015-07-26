@@ -11,4 +11,10 @@
     <string name="no_location_data_provided">No location data provided</string>
     <string name="service_not_available">Sorry, the service is not available</string>
     <string name="invalid_lat_long_used">Invalid latitude or longitude used</string>
+     <string name="cheese_ipsum">Bengaluru (aka Bangalore) is the capital of Indias southern Karnataka state.
+         The center of Indias high-tech industry,
+         the city is also known for its green spaces and nightlife.
+         Near Cubbon Park, Vidhana Soudha is its massive Neo-Dravidian legislative building.
+         Former royal residences include 19th-century Bangalore Palace, modeled after Englands Windsor Castle,
+         and Tipu Sultans Summer Palace, an 18th-century teak structure.</string>
 </resources>
